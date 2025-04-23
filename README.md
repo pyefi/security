@@ -43,16 +43,6 @@ Pye actively encourages the community and security researchers to responsibly di
 
 We are currently finalizing the submission form and reward structure with a 3rd party provider. Please check back soon for updates and detailed guidelines.
 
-## Security Disclosures
-
-If you discover a vulnerability or any security-related issue, please inform us immediately upon discovery.
-
-1. Do not disclose publicly until resolved.
-
-2. Report the issue through our Bug Bounty Program or directly via email at security@pye.fi.
-
-Though we commit to acknowledging reports within 48 hours, we need an adequate amount of time to review any submissions.
-
 ## Contact
 
 For any other security-related inquiries, reach out to our team:
