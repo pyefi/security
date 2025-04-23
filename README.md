@@ -8,9 +8,10 @@ Pye Protocol contracts and programs undergo 3rd party audits before deployment. 
 
 ### Audit Reports
 
-- Zellic Audit - [January 2025 Audit Report](https://github.com/pyefi/security/blob/master/security_audits/Pye%20-%20Zellic%20Audit%20Report.pdf)
-
-- Sec3 Audit - [March 2025 Audit Report](https://github.com/pyefi/security/blob/master/security_audits/pyefi_bonds_report.pdf)
+| Auditor | Version | Date             | Type            | PDF                                                                                                                                       |
+| ------- | ------- | ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Zellic  | Pye v1  | January 23, 2025 | Security Review | [Zellic - January 2025 Audit Report](https://github.com/pyefi/security/blob/master/security_audits/Pye%20-%20Zellic%20Audit%20Report.pdf) |
+| Sec3    | Pye v1  | March 19, 2025   | Security Review | [Sec3 - March 2025 Audit Report](https://github.com/pyefi/security/blob/master/security_audits/pyefi_bonds_report.pdf)                    |
 
 All audit reports include:
 
