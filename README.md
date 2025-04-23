@@ -4,7 +4,7 @@ Welcome to the official security repository for Pye. Our mission is to build val
 
 ## Audits
 
-Pye Protocol contracts and programs undergo 3rd party audits before deployment. Audits reports are organized in the repository according to auditor and date of review.
+Pye Protocol contracts and programs undergo 3rd-party audits before deployment. Audits reports are organized in the repository according to auditor and date of review.
 
 ### Audit Reports
 
@@ -41,7 +41,7 @@ Audits cover comprehensive security evaluations including:
 
 Pye actively encourages the community and security researchers to responsibly disclose any vulnerabilities through our bug bounty program. Rewards are based on severity and impact.
 
-We are currently finalizing the submission form and reward structure with a 3rd party provider. Please check back soon for updates and detailed guidelines.
+We are currently finalizing the submission form and reward structure with a 3rd-party provider. Please check back soon for updates and detailed guidelines.
 
 ## Contact
 
