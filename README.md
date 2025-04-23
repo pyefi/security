@@ -35,3 +35,13 @@ Audits cover comprehensive security evaluations including:
 - Economic and logic attacks analysis
 
 - Compliance with Solana best practices
+
+### Contact
+
+For any other security-related inquiries, reach out to our team:
+
+Email: security@pye.fi
+
+Twitter: @PyeFinance
+
+Thank you for contributing to the security and safety of the Pye protocol.
